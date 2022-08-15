@@ -1,0 +1,18 @@
+.counter{
+	display: flex;
+	align-items: center;
+  	justify-content: center;
+	width: 25%;
+	margin: auto;
+    border: 2px solid gray;
+    border-radius: 12px;
+    padding: 10px 20px;
+    background: linear-gradient(#111, #666);
+}
+
+.counter div{
+	color: white;
+	margin: 15px;
+	font-size: 25px;
+    font-family: monospace;
+}
